@@ -1,4 +1,4 @@
-#Example of Has-A relationship
+#Example of Has-A relationship(Composition)
 class veg:
     def vegMenu(self):
         print('Only Veg Pulao is available in veg')
