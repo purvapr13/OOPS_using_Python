@@ -1,4 +1,4 @@
-#Simple Example of Is-A Relationship (Inheritance)
+#Simple Example of Is-A Relationship (Inheritance) also single Inheritance
 class eatery:
     def comMenu(self):
         print('Today Everyone will get complimentory Cheese Cake')
